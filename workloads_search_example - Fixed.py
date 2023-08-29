@@ -3,6 +3,8 @@
 # *******************************************************
 # Copyright (c) VMware, Inc. 2021-2023. All Rights Reserved.
 # SPDX-License-Identifier: MIT
+#Original script is here: https://github.com/carbonblack/carbon-black-cloud-sdk-python/blob/develop/examples/workload/workloads_search_example.py
+#this script is intended to create only  CSV , and not with JSON files
 # *******************************************************
 # *
 # * DISCLAIMER. THIS PROGRAM IS PROVIDED TO YOU "AS IS" WITHOUT
