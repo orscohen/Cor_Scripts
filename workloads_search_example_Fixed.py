@@ -6,6 +6,7 @@
 # Original script is here: https://github.com/carbonblack/carbon-black-cloud-sdk-python/blob/develop/examples/workload/workloads_search_example.py
 # This script is intended to create only CSV files,
 # This fix - I have added a create CSV file function, and added a wait time between the creation of the file - to the download.
+# python ./workloads_search_example_Fixed.py --cburl https://defense-eu.conferdeploy.net/ --apitoken **********/*** --orgkey *******
 # for any questions, reach out to cor@vmware.om
 # *******************************************************
 # *
