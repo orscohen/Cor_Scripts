@@ -31,8 +31,7 @@ from cbc_sdk.workload import VCenterComputeResource, AWSComputeResource
 
 
 DOWNLOAD_MENU = MappingProxyType({
-    '1': {'name': 'Comma-separated values (CSV) format', 'value': 'CSV'},
-    '2': {'name': 'JSON format', 'value': 'JSON'}
+    '1': {'name': 'Comma-separated values (CSV) format', 'value': 'CSV'}
 })
 
 CRITERIA_VCENTER = {
